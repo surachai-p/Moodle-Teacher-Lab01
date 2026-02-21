@@ -155,7 +155,7 @@
 | 3.8 | เนื้อหาอย่างน้อย 3 ย่อหน้า | ✓ |  |
 | 3.9 | มี Headings อย่างน้อย 3 หัวข้อย่อย | ✓ |  |
 | 3.10 | แทรกรูปภาพอย่างน้อย 1 รูป | ✓ |  |
-| 3.11 | Activity completion: Require view | ☐ |  |
+| 3.11 | Activity completion: Require view | ✓  |  |
 | 3.12 | Expect completed on ตั้งแล้ว | ✓ |  |
 | 3.13 | เนื้อหามีคุณภาพ อ่านเข้าใจง่าย | ✓ |  |
 | 3.14 | จัดรูปแบบสวยงาม มี Structure | ✓ |  |
@@ -249,7 +249,7 @@
 | 3.36 | Group submission settings: Enabled | ✓ |  |
 | 3.37 | Require all members submit: No | ✓ |  |
 | 3.38 | Files: 2 files (.pdf, .pptx), Max 20 MB | ✓ |  |
-| 3.39 | Grade category = โปรเจกต์, Max = 30, Pass = 21 | ☐ |  |
+| 3.39 | Grade category = โปรเจกต์, Max = 30, Pass = 21 | ✓  |  |
 | 3.40 | Feedback types: Comments + Files | ✓ |  |
 | 3.41 | Activity completion: Require submit | ✓ |  |
 | 3.42 | ทดสอบ Switch role → ส่งงานกลุ่มได้ | ✓ |  |
