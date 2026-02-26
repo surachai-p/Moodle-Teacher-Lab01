@@ -274,7 +274,7 @@
 |-----|--------|---|----------|
 | 3.43 | สร้าง Choice สำเร็จ | ✓ |  |
 | 3.44 | มี 3 ตัวเลือก พร้อม Limit = 10 | ✓ |  |
-| 3.45 | Allow update = No | ☐ |  |
+| 3.45 | Allow update = No | ✓ |  |
 | 3.46 | Show results = After they answer | ✓ |  |
 | 3.46 | Publish = Full results | ✓ |  |
 | 3.48 | ทดสอบ Switch role → เลือกได้และเห็นผล | ✓ |  |
